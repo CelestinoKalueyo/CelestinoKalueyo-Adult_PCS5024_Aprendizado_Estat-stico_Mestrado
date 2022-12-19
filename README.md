@@ -1,0 +1,3 @@
+# CelestinoKalueyo-Adult_PCS5024_Aprendizado_Estat-stico_Mestrado
+Os dados foram extraídos da platafome UCI e adaptado para o trabalho de conclusão da disciplina PCS5024 - Aprendizado Estatístico - Faculdade de Engenharia da Computação - Mestrado - Escola Politécnica - USP.
+O objetivo é predizer a renda anual em USD de cada individuo levando em conta o nivel de escolaridade, tipo de emprego...
